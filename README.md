@@ -78,11 +78,18 @@ Professional with over 7 years of experience in Full Stack development and techn
       </td>
       <td align="center">
         <a href="https://www.credly.com/badges/7953e9a1-1024-4fec-9d7b-e2e79ee8b239/linked_in_profile">
-          <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" width="100" alt="GitHub Actions"/>
+          <img src="https://images.credly.com/size/680x680/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" width="100" alt="GitHub Actions"/>
           <br />
           <b>GitHub Actions</b>
         </a>
       </td>
+      <!-- Add GitHub Copilot -->
+      <td align="center">
+        <a href="https://www.credly.com/badges/7953e9a1-1024-4fec-9d7b-e2e79ee8b239/linked_in_profile">
+          <img src="https://images.credly.com/size/680x680/images/6b924fae-3cd7-4233-b012-97413c62c85d/blob" width="100" alt="GitHub Copilot"/>
+          <br />
+          <b>GitHub Copilot</b>
+        </a>
     </tr>
   </table>
 </div>
@@ -99,6 +106,10 @@ Professional with over 7 years of experience in Full Stack development and techn
   <br/>
   <a href="https://www.credly.com/badges/7953e9a1-1024-4fec-9d7b-e2e79ee8b239/linked_in_profile">
     <img src="https://img.shields.io/badge/Certified-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  </a>
+  <br/>
+  <a href="https://www.credly.com/badges/5b8762a4-f80f-4cc0-bce4-7fdb55e98381/linked_in">
+    <img src="https://img.shields.io/badge/Certified-GitHub_Copilot-6B924FAE?style=for-the-badge&logo=github-copilot&logoColor=white" alt="GitHub Copilot"/>
   </a>
 </div>
 
