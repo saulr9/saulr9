@@ -63,21 +63,21 @@ Professional with over 7 years of experience in Full Stack development and techn
   <table>
     <tr>
       <td align="center">
-        <a href="https://learn.microsoft.com/api/credentials/share/en-us/SaulRamos-4691/E382D768067C09D9?sharingId=BBA88A4C4D8B4C14">
+        <a href="https://learn.microsoft.com/api/credentials/share/en-us/SaulRamos-4691/E382D768067C09D9?sharingId=BBA88A4C4D8B4C14" target="_blank">
           <img src="https://images.credly.com/size/340x340/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" width="100" alt="Azure Developer Associate"/>
           <br />
           <b>Azure Developer Associate</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://learn.microsoft.com/api/credentials/share/en-us/SaulRamos-4691/941B0DF0CD45B8C?sharingId=BBA88A4C4D8B4C14">
+        <a href="https://learn.microsoft.com/api/credentials/share/en-us/SaulRamos-4691/941B0DF0CD45B8C?sharingId=BBA88A4C4D8B4C14" target="_blank">
           <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100" alt="Azure Fundamentals"/>
           <br />
           <b>Azure Fundamentals</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://www.credly.com/badges/7953e9a1-1024-4fec-9d7b-e2e79ee8b239/linked_in_profile">
+        <a href="https://www.credly.com/badges/7953e9a1-1024-4fec-9d7b-e2e79ee8b239/linked_in_profile" target="_blank">
           <img src="https://images.credly.com/size/680x680/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" width="100" alt="GitHub Actions"/>
           <br />
           <b>GitHub Actions</b>
@@ -85,7 +85,7 @@ Professional with over 7 years of experience in Full Stack development and techn
       </td>
       <!-- Add GitHub Copilot -->
       <td align="center">
-        <a href="https://www.credly.com/badges/7953e9a1-1024-4fec-9d7b-e2e79ee8b239/linked_in_profile">
+        <a href="https://www.credly.com/badges/5b8762a4-f80f-4cc0-bce4-7fdb55e98381/linked_in?t=stxvdk" target="_blank">
           <img src="https://images.credly.com/size/680x680/images/6b924fae-3cd7-4233-b012-97413c62c85d/blob" width="100" alt="GitHub Copilot"/>
           <br />
           <b>GitHub Copilot</b>
