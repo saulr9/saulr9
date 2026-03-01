@@ -1,14 +1,10 @@
 # Hi there, I'm saul Ramos 👋
-
+<!--
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+-->
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=saulCleverit&style=flat-square&color=blue" alt="Profile views"/>
-</div>
-
----
 
 ## 👨‍💻 About Me
 Professional with over 7 years of experience in Full Stack development and technical leadership, specialized in creating and maintaining complex web applications. I have a strong track record in contributing to the design of scalable and secure architectures, and experience with messaging systems.
@@ -160,4 +156,7 @@ When I'm not coding, you can find me at the gym, playing soccer, or reading sci-
 <div align="center">
   <p>Last updated on: 2025-03-18</p>
   <p>Thanks for visiting! ❤️</p>
+  <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=saulCleverit&style=flat-square&color=blue" alt="Profile views"/>
+</div>
 </div>
