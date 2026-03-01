@@ -154,7 +154,7 @@ When I'm not coding, you can find me at the gym, playing soccer, or reading sci-
 ---
 
 <div align="center">
-  <p>Last updated on: 2025-03-18</p>
+  <p>Last updated on: 2026-03-01</p>
   <p>Thanks for visiting! ❤️</p>
   <div align="center">
   <img src="https://komarev.com/ghpvc/?username=saulCleverit&style=flat-square&color=blue" alt="Profile views"/>
