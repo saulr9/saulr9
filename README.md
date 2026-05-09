@@ -4,6 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 -->
+<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/168a433f-faa9-415a-af95-0c621a6841ce" />
 
 
 ## 👨‍💻 About Me
