@@ -42,23 +42,6 @@ I build scalable, secure web applications and backend systems. With **7+ years o
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
 </p>
 
-## ✨ Projects I'm proud of
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔌 <a href="https://github.com/saulr9/mcp-ts-example">MCP Demo Server</a></h3>
-      <p>TypeScript demo server exploring MCP tools, resources, and prompts for LLM integrations.</p>
-      <img src="https://img.shields.io/badge/TypeScript-MCP-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript and MCP" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>✨ <a href="https://github.com/saulr9/az-openai-frases">AI Motivational Phrases</a></h3>
-      <p>A Node.js and TypeScript REST API that generates motivational phrases with Azure OpenAI.</p>
-      <img src="https://img.shields.io/badge/Azure-OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure OpenAI" />
-    </td>
-  </tr>
-</table>
-
 ## 🎓 Certifications
 
 <div align="center">
